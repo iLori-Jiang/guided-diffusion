@@ -1,0 +1,6 @@
+Logging to /var/folders/_0/z2ffrmw94kz1n1btpbbjy_b00000gn/T/openai-2023-12-20-18-08-02-329112
+creating model and diffusion...
+sampling...
+created 4 samples
+saving to /var/folders/_0/z2ffrmw94kz1n1btpbbjy_b00000gn/T/openai-2023-12-20-18-08-02-329112/samples_4x64x64x3.npz
+sampling complete
